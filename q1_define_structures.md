@@ -2,15 +2,19 @@
 
 Define each of the following and provide an example.
 
-1.  Lists
+---
 
->  Definition:
+###Q1.  Lists
 
->  Example:
+Definition:
+>> PLACE YOUR RESPONSE HERE
+
+>  Example code:
 
 ```
 
 ```
+---
 
 2.  Arrays
 
