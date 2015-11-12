@@ -19,10 +19,13 @@ Definition:
 ```
 
 
-Write this function:  given an int count of a number of apples, return a string of the form 
-'Number of apples: <count>', where <count> is the number passed in. However, if the count is 12 or more, 
-then use the word     'many' instead of the actual count.
+Write this function:  
 
+    Given an int count of a number of apples, return a string of the
+    form 'Number of apples: <count>', where <count> is the number
+    passed in. However, if the count is 12 or more, then use the word
+    'many' instead of the actual count.
+    
 >  Example code:
 
 ```
