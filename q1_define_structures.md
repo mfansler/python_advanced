@@ -16,35 +16,39 @@ Definition:
 ```
 ---
 
-2.  Arrays
+####Q2.  Arrays
 
+Definition:
+>> PLACE YOUR RESPONSE HERE
 
->  Definition:
+>  Example code:
 
->  Example:
+```
+
+```
+---
+
+####Q3.  Sets
+
+Definition:
+>> PLACE YOUR RESPONSE HERE
+
+>  Example code:
+
+```
+
+```
+---
+
+####Q4.  Tuples
+
+Definition:
+>> PLACE YOUR RESPONSE HERE
+
+>  Example code:
 
 ```
 
 ```
 
-3.  Sets
-
->  Definition:
-
->  Example:
-
-```
-
-```
-
-4.  Tuples
-
->  Definition:
-
->  Example:
-
-```
-
-
-```
 
