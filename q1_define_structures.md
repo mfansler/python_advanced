@@ -7,7 +7,7 @@ Name:
 
 ---
 
-####Q1.  Lists
+####Q1a.  Lists
 
 Definition:
 >> PLACE YOUR RESPONSE HERE
@@ -19,7 +19,7 @@ Definition:
 ```
 ---
 
-####Q2.  Arrays
+####Q1b.  Arrays
 
 Definition:
 >> PLACE YOUR RESPONSE HERE
@@ -31,7 +31,7 @@ Definition:
 ```
 ---
 
-####Q3.  Sets
+####Q1c.  Sets
 
 Definition:
 >> PLACE YOUR RESPONSE HERE
@@ -43,7 +43,7 @@ Definition:
 ```
 ---
 
-####Q4.  Tuples
+####Q1d.  Tuples
 
 Definition:
 >> PLACE YOUR RESPONSE HERE
