@@ -3,7 +3,13 @@
 Define each of the following and provide an example.
 
 1.  Lists
->>  
+>>  Definition:
+
+>>  Example:
+```
+
+
+```
 
 2.  Arrays
 
