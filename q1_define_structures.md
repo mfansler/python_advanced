@@ -7,34 +7,38 @@ Define each of the following and provide an example.
 >  Definition:
 
 >  Example:
-```
 
+```
 
 ```
 
 2.  Arrays
+
+
 >  Definition:
 
 >  Example:
-```
-
 
 ```
 
+```
 
 3.  Sets
+
 >  Definition:
 
 >  Example:
-```
 
+```
 
 ```
 
 4.  Tuples
+
 >  Definition:
 
 >  Example:
+
 ```
 
 
